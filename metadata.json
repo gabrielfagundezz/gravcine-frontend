@@ -1,0 +1,6 @@
+{
+  "name": "GravCine - Avaliador de Filmes e Séries",
+  "description": "Um aplicativo web para pesquisar filmes e séries na API The Movie Database (TMDB) e avaliá-los com estrelas. Permite aos usuários buscar por títulos e registrar suas avaliações de 1 a 5 estrelas. Inclui funcionalidade de modo escuro. Interface em Português do Brasil.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
