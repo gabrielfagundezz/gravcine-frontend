@@ -2,7 +2,7 @@ import type { UserCredentials, StoredUser, CurrentUser, UserRating, UserReviewIt
 
 // A URL base do seu backend PHP.
 // Certifique-se de que o Apache do XAMPP esteja rodando para que esta URL funcione.
-const API_BASE_URL = 'http://localhost/gravcine-backend/index.php'; // Aponta para o seu index.php
+const API_BASE_URL = 'http://gravcine-backend-api.ct.ws'; // Aponta para o seu index.php
 
 const SESSION_STORAGE_KEY = 'gravcine-session'; // Manteremos a sessão no localStorage do frontend por enquanto
 
